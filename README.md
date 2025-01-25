@@ -1,2 +1,10 @@
-# Americansignlanguage
- 
+● PROJECT NAME : BRIDGING THE GAP - SIGN LANGUAGE RECOGNITION AND CONVERSION TO TEXT AND VOICE
+● TEAM NAME : TEAM VOLTA
+● GROUP MEMBERS:
+❖ Tasnia Nafs 200021113
+❖ Md. Ikrama Hossain 200021114
+❖ Omar Faruk 200021118
+❖ Sanzida Tasnim Nisa 200021122
+● SUPERVISED BY : Mr. Asif Newaz
+Faculty Member, Department of EEE
+Islamic University of Technology
